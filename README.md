@@ -1,6 +1,11 @@
 # Beyond Accuracy: Robust and Explainable IoT IDS
 
+## 🚀 Live Demo
+
+[**Open IoT IDS API — Interactive Swagger Docs**](https://iot-ids-deploy.onrender.com/docs)
+
 ## Overview
+
 This project proposes a robust and explainable intrusion detection system (IDS) for IoT environments.
 
 The system evaluates:
@@ -10,6 +15,7 @@ The system evaluates:
 - Explainability using SHAP
 
 ## Technologies Used
+
 - Python
 - PyTorch
 - FastAPI
@@ -18,6 +24,7 @@ The system evaluates:
 - Scikit-learn
 
 ## Features
+
 - MLP-based intrusion detection
 - Adversarial evaluation
 - Drift-aware testing
@@ -25,8 +32,10 @@ The system evaluates:
 - Cloud deployment
 
 ## Results
+
 - Baseline Accuracy: 97.47%
 - Adversarial Accuracy Drop: 38.8%
 
 ## Deployment
+
 Deployed using Render + FastAPI
